@@ -1,0 +1,2 @@
+# SMC365CONFIG
+Test
